@@ -1,8 +1,6 @@
-# Home-Work-1
-Intro to Finance
-# Home-Work-1
-Intro to Financ
-Ripple Labs
+# Intro to Finance
+## financial technology
+### Ripple Labs
 
 Ripple Labs is a private computer software company based in San Francisco, California. U.S. It was founded by Chris Larsen, a business executive and angel investor of many Silicon Valley technologies. And by Jeb McCaleb, an American entrepreneur and programmer. Ripple Labs offers two completely different entities
 (1)  cryptocurrency (XRP) that can be traded. 
